@@ -1,4 +1,4 @@
-# Suduko-Kit
+# Sudoku-Kit
 A highly efficient Sudoku solver written in Python.  
 It uses a basic backtracking algorithm with a minimum-remaining-values heuristic. While the algorithm is simple, it's still extremely fast, and can solve any common puzzle in a few hundredths of a second.  
 
