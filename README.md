@@ -5,6 +5,7 @@ It uses a basic backtracking algorithm with a minimum-remaining-values heuristic
 ## Usage
 Enter the known clues into a text file. Place each row on its own line, and use periods for blank spaces.  
 (Examples of clue files are provided in the repository.)
+
 Then, run  
 ```
 python sudoku.py cluefilename.txt
